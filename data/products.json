@@ -1,0 +1,130 @@
+[
+  {
+    "name": "HP Smartchoice Victus, 13th Gen Intel Core i5-13420H, 4GB RTX 3050, 16GB DDR4, 512GB SSD, 144Hz, FHD Gaming Laptop",
+    "description": "HP Smartchoice Victus, 13th Gen Intel Core i5-13420H, 4GB RTX 3050, 16GB DDR4, 512GB SSD, 144Hz, FHD Gaming Laptop",
+    "price": 67990,
+    "image": "item1.jpg",
+    "category": "Laptop",
+    "stock": 20
+  },
+  {
+    "name": "Lenovo LOQ Intel Core i7-13650HX, NVIDIA RTX 4060 8GB, 24GB RAM, 512GB SSD, 144Hz, Windows 11 Gaming Laptop",
+    "description": "Lenovo LOQ Intel Core i7-13650HX, NVIDIA RTX 4060 8GB, 24GB RAM, 512GB SSD, 144Hz, Windows 11 Gaming Laptop",
+    "price": 125000,
+    "image": "item2.jpg",
+    "category": "Laptop",
+    "stock": 20
+  },
+  {
+    "name": "ASUS Zenbook 14, Intel Core Ultra 7, Intel Arc iGPU, 32GB RAM, 1TB SSD, 3K OLED Touch Screen Laptop",
+    "description": "ASUS Zenbook 14, Intel Core Ultra 7, Intel Arc iGPU, 32GB RAM, 1TB SSD, 3K OLED Touch Screen Laptop",
+    "price": 114990,
+    "image": "item3.jpg",
+    "category": "Laptop",
+    "stock": 20
+  },
+  {
+    "name": "Lenovo Yoga Slim 7, Intel Core Ultra 7 155H, 16GB RAM, 512GB SSD, WUXGA-OLED, Windows 11 Laptop",
+    "description": "Lenovo Yoga Slim 7, Intel Core Ultra 7 155H, 16GB RAM, 512GB SSD, WUXGA-OLED, Windows 11 Laptop",
+    "price": 94990,
+    "image": "item4.jpg",
+    "category": "Laptop",
+    "stock": 20
+  },
+  {
+    "name": "HP OmniBook X Flip OLED, Intel Core Ultra 5, 16GB RAM, 512GB SSD, 3K Touch Display, Windows 11 Laptop",
+    "description": "HP OmniBook X Flip OLED, Intel Core Ultra 5, 16GB RAM, 512GB SSD, 3K Touch Display, Windows 11 Laptop",
+    "price": 109880,
+    "image": "item5.webp",
+    "category": "Laptop",
+    "stock": 20
+  },
+  {
+    "name": "ASUS Zenbook S16, AMD Ryzen AI 7, 24GB RAM, 1TB SSD, 3K OLED Touchscreen, Windows 11 Laptop",
+    "description": "ASUS Zenbook S16, AMD Ryzen AI 7, 24GB RAM, 1TB SSD, 3K OLED Touchscreen, Windows 11 Laptop",
+    "price": 134900,
+    "image": "item6.jpg",
+    "category": "Laptop",
+    "stock": 20
+  },
+  {
+    "name": "Lenovo Yoga 7 2-in-1 AMD Ryzen AI 7, 24GB RAM, 1TB SSD, OLED Display, Convertible Laptop",
+    "description": "Lenovo Yoga 7 2-in-1 AMD Ryzen AI 7, 24GB RAM, 1TB SSD, OLED Display, Convertible Laptop",
+    "price": 105900,
+    "image": "item7.jpg",
+    "category": "Laptop",
+    "stock": 20
+  },
+  {
+    "name": "Apple 2024 MacBook Pro with M4 Max chip, 14.2\u2033 Liquid Retina XDR Display, 36GB Memory, 1TB SSD",
+    "description": "Apple 2024 MacBook Pro with M4 Max chip, 14.2\u2033 Liquid Retina XDR Display, 36GB Memory, 1TB SSD",
+    "price": 306900,
+    "image": "item8.jpg",
+    "category": "Laptop",
+    "stock": 20
+  },
+  {
+    "name": "iPhone 17 Pro 256 GB, 6.3\u2033 Display, A19 Pro Chip, Pro Fusion Camera System, Cosmic Orange",
+    "description": "iPhone 17 Pro 256 GB, 6.3\u2033 Display, A19 Pro Chip, Pro Fusion Camera System, Cosmic Orange",
+    "price": 134900,
+    "image": "product1.webp",
+    "category": "Phone",
+    "stock": 20
+  },
+  {
+    "name": "OnePlus 15R, 12GB RAM, 256GB Storage, Snapdragon 8 Gen 5, 7400mAh Battery, 165Hz Display",
+    "description": "OnePlus 15R, 12GB RAM, 256GB Storage, Snapdragon 8 Gen 5, 7400mAh Battery, 165Hz Display",
+    "price": 47999,
+    "image": "product2.webp",
+    "category": "Phone",
+    "stock": 20
+  },
+  {
+    "name": "iPhone Air 256 GB, 6.5\u2033 Display, A19 Pro Chip, Center Stage Front Camera, Space Black",
+    "description": "iPhone Air 256 GB, 6.5\u2033 Display, A19 Pro Chip, Center Stage Front Camera, Space Black",
+    "price": 99000,
+    "image": "product3.webp",
+    "category": "Phone",
+    "stock": 20
+  },
+  {
+    "name": "Samsung Galaxy S25 Ultra 5G, 12GB RAM, 256GB Storage, 200MP Camera, 5000mAh Battery",
+    "description": "Samsung Galaxy S25 Ultra 5G, 12GB RAM, 256GB Storage, 200MP Camera, 5000mAh Battery",
+    "price": 124990,
+    "image": "product4.webp",
+    "category": "Phone",
+    "stock": 20
+  },
+  {
+    "name": "Nothing Phone 3a Lite, White, 128 GB Storage, 8 GB RAM",
+    "description": "Nothing Phone 3a Lite, White, 128 GB Storage, 8 GB RAM",
+    "price": 19790,
+    "image": "product5.webp",
+    "category": "Phone",
+    "stock": 20
+  },
+  {
+    "name": "OnePlus 15, 16GB RAM, 512GB Storage, Snapdragon 8 Elite Gen 5, 7300mAh Battery",
+    "description": "OnePlus 15, 16GB RAM, 512GB Storage, Snapdragon 8 Elite Gen 5, 7300mAh Battery",
+    "price": 79990,
+    "image": "product6.webp",
+    "category": "Phone",
+    "stock": 20
+  },
+  {
+    "name": "realme 16 Pro 5G, 12GB RAM, 256GB Storage, 144Hz AMOLED, 7000mAh Battery, 200MP Camera",
+    "description": "realme 16 Pro 5G, 12GB RAM, 256GB Storage, 144Hz AMOLED, 7000mAh Battery, 200MP Camera",
+    "price": 39999,
+    "image": "product7.webp",
+    "category": "Phone",
+    "stock": 20
+  },
+  {
+    "name": "Google Pixel 10 5G, Obsidian, 12GB RAM, 256GB Storage",
+    "description": "Google Pixel 10 5G, Obsidian, 12GB RAM, 256GB Storage",
+    "price": 68900,
+    "image": "product8.webp",
+    "category": "Phone",
+    "stock": 20
+  }
+]
