@@ -60,8 +60,14 @@
 
     .carousel-item img {
       width: 100%;
-      height: 330px;
+      height: 430px;
       object-fit: cover;
+      object-position: top center;
+      display: block;
+    }
+
+    .carousel {
+      overflow: hidden;
     }
 
     .category-card,
@@ -250,8 +256,11 @@
         margin: 12px 0;
       }
 
-      .carousel-item img {
-        height: 240px;
+      @media (max-width: 991px) {
+        .carousel-item img {
+          height: 300px;
+          object-position: top center;
+        }
       }
     }
 
@@ -260,8 +269,11 @@
         font-size: 23px;
       }
 
-      .carousel-item img {
-        height: 175px;
+      @media (max-width: 576px) {
+        .carousel-item img {
+          height: 220px;
+          object-position: top center;
+        }
       }
 
       .category-card,
